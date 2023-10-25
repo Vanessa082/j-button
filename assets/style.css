@@ -1,4 +1,17 @@
-body{
+body {
     background-color: darkslateblue;
     color: white;
+}
+
+.button {
+    height: 25px;
+    width: 200px;
+    margin: 5px auto;
+    border-left: 100px;
+}
+
+.button-one {
+    background-color: aqua;
+    height: 20px;
+    width: 150px;
 }
